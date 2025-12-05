@@ -1,0 +1,2 @@
+# YouTube_blr_news
+YouTube Bengaluru Division News Channels: This repository contains a complete data analysis pipeline for YouTube from multiple news-based channels using the YouTube Data API, perform time-based sentiment analysis and provide insights into content trends and audience engagement patterns. The project focuses on understanding how news topics, publishing frequency and viewer responses influence engagement metrics such as views, likes and comments.
